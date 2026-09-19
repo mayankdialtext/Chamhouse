@@ -1,0 +1,6 @@
+{
+  "name": "Chamhouse",
+  "description": "Official website for Chamhouse (chamhouse.co.in) featuring customer communication opt-in, RCS registration compliance, Privacy Policy, and Terms & Conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
